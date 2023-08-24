@@ -133,9 +133,6 @@ metadata = tree.find('metadata')
 
 country, fid = get_info_from_file(
     metadata.xpath('.//source/text/file')[0].attrib['name'])
-if args.debug:
-    print(f"DEBUG: Using {country} for country", file=sys.stderr)
-    print(f"DEBUG: Using {fid} as seed", file=sys.stderr)
 
 random.seed(fid)
 
@@ -153,6 +150,8 @@ if args.debug:
         len(orig_data['fem']) +
         len(orig_data['masc']) +
         len(orig_data['surname'])))
+    print(f"DEBUG: Using {country} for country", file=sys.stderr)
+    print(f"DEBUG: Using {fid} as seed", file=sys.stderr)
 
 # exceptions
 exceptions = ["Marias", "Anas", "Argolos"]
