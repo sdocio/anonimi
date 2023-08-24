@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="transcription.xsd">
+<metadata>
+    <participants>
+        <speaker id="11" vid="2249">
+            <age value="1"/>
+            <gender value="M"/>
+            <grade value="6"/>
+            <pilgrim value="1"/>
+            <origin value="ES"/>
+            <visit value="1"/>
+        </speaker>
+        <researcher id="1" name="xxx"/>
+    </participants>
+    <source phase="3">
+        <text>
+            <file name="02_ES_fase3_11__1-M-6-1.docx" type="docx"/>
+        </text>
+        <audio duration="3967">
+            <file date="2015-09-16" name="02_ES_fase3_11.mp3" type="mp3"/>
+        </audio>
+    </source>
+</metadata>
+<data>
+<q lang="es">Hola buenos días, ¿puedo hablar con <entity type="person">Carmen</entity>, por favor?<timestamp value="00:00:21-2"/></q>
+<a lang="es">Sí.<timestamp value="00:00:22-6"/></a>
+<q lang="es">Hola, <entity type="person">Paula</entity>. Mi nombre es <entity type="person">Lucía Carballo</entity>. Intercambiamos unos correos electrónicos y concertamos una cita para hoy. No sé si le viene bien hablar ahora.<timestamp value="00:00:30-5"/></q>
+<a lang="es">Sí, sin problema <entity type="person">Lucía</entity>.<timestamp value="00:00:32-0"/></a>
+<q lang="es">¿Qué tal el tiempo por <entity norm="Málaga" type="location" subtype="gpe" osmid="340746" osm_object="node/21750065" wikidata="Q8851">Málaga</entity>? ¿Está residiendo en la actualidad en la ciudad?<timestamp value="00:00:38-3"/></q>
+<a lang="es">Sí, está muy bien.<timestamp value="00:00:40-7"/></a>
+<q lang="es">Aquí en <entity norm="Santiago de Compostela" type="location" subtype="gpe" osmid="346204" osm_object="node/998649870" wikidata="Q14314">Santiago</entity> tuvimos un temporal. Imagino que ahí no. Hay buenas temperaturas. Aún superan los 25 grados, ¿no?<timestamp value="00:00:51-1"/></q>
+<a lang="es">Sí, aquí todavía andamos en chanclas y short.<timestamp value="00:00:54-3"/></a>
+<q lang="es">Antes de nada quería hacerle una consulta. Me gustaría poder grabar la conversación para poder transcribir la información y tenerla de una manera más clara. No sé si tiene algún inconveniente. Nosotros garantizamos la confidencialidad de los datos. Digamos que las informaciones que nos ofrecen las personas que participan y colaboran con nosotros se desvinculan de su identidad. Entonces en ningún momento se conoce la identidad.<timestamp value="00:01:31-1"/></q>
+<a lang="es">Sí, no tengo problema.<timestamp value="00:01:32-5"/></a>
+</data>
+</transcription>

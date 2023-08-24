@@ -1,0 +1,28 @@
+{
+  "Paula": {
+    "Paula": "fem"
+  },
+  "Carmen": {
+    "Carmen": "fem"
+  },
+  "Lucía": {
+    "Lucía": "fem"
+  },
+  "Eduardo Pérez": {
+    "Eduardo": "masc",
+    "Pérez": "surname"
+  },
+  "Lucía Carballo": {
+    "Lucía": "fem",
+    "Carballo": "surname"
+  },
+  "José Manuel": {
+    "José Manuel": "masc"
+  },
+  "João": {
+    "João": "masc"
+  },
+  "Juan": {
+    "Juan": "masc"
+  }
+}
